@@ -65,6 +65,7 @@ Copy all files in the `custom` folder into the `dayzOffline.enoch\custom` folder
 ## Usage
 
 To use the fast travel system, enter one of the fast travel porta-potties and log out. When you log back in, you will be teleported to the final destination.
+Each of the towns listed below has a fast travel porta-potty next to a bus stop. They shouldn't be too difficult to find.
 
 ## Hub Destinations
 
