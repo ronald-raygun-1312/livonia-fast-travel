@@ -61,3 +61,11 @@ Copy all files in the `custom` folder into the `dayzOffline.enoch\custom` folder
 3. Make sure `Enable cfggameplay.json` is checked in your Nitrado configuration.
 
 4. Restart your server and enjoy!
+
+## Usage
+
+To use the fast travel system, enter one of the fast travel porta-potties and log out. When you log back in, you will be teleported to the final destination.
+
+## Check it out on XBox
+
+Join "The Forgotten Vault" on XBox to see the fast travel system in action!
