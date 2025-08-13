@@ -66,6 +66,31 @@ Copy all files in the `custom` folder into the `dayzOffline.enoch\custom` folder
 
 To use the fast travel system, enter one of the fast travel porta-potties and log out. When you log back in, you will be teleported to the final destination.
 
+## Hub Destinations
+
+The hub contains 20 porta-potties, each leading to a different location on the map. The destinations are listed left to right:
+
+1. Adamow
+2. Bielawa
+3. Brenna
+4. Dolnik
+5. Gieraltow
+6. Gliniska
+7. Grabin
+8. Kolembrody
+9. Lembork
+10. Lukow
+11. Nadbor
+12. Olszanka
+13. Polana
+14. Radacz
+15. Sitnik
+16. Sobotka
+17. Tarnow
+18. Topolin
+19. Wrzeszcz
+20. Zalesie
+
 ## Check it out on XBox
 
 Join "The Forgotten Vault" on XBox to see the fast travel system in action!
